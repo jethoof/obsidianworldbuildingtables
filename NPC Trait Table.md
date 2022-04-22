@@ -4,6 +4,12 @@ title: "NPC Trait Table"
 tags:
 - worldbuilding
 ---
+
+Sources: 
+Dungeon Master's Guide 5e
+Dungeon Master's Guide 3.5
+
+
 > [!info]+  NPC Trait Generator
 > 
 > **High Ability:**  `dice: [[NPC Trait Table#^abilities]]|High Ability` 
