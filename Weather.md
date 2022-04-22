@@ -1,9 +1,8 @@
 ---
 date: 2022-04-16
 title: "Weather"
-status: 🌱🪴🌲🍇
-words:
 tags:
+- worldbuilding
 ---
 
 > [!info] Weather 
