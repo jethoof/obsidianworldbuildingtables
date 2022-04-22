@@ -1,11 +1,11 @@
 ---
 date: 2022-04-16
 title: "Random Buildings"
-status: 🌱🪴🌲🍇
-words:
 tags:
 - worldbuilding
 ---
+Source: 
+dungeon Master's Guide 5e
 
 # Random Buildings
 Pulse-pounding chases and harrowing escapes within the confines of a town or city can sometimes force characters to dash into buildings. When you need to flesh out a building quickly, roll on the Building Type table. Then roll on the table corresponding to that building to add further detail. 
