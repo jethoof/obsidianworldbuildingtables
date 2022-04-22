@@ -1,10 +1,21 @@
 ---
 date: 2022-04-16
 title: "Trinkets Table"
-status: 🌱🪴🌲🍇
-words:
-tags:
+source: Dungeon Master's Guide 5e
 ---
+
+# How to use:
+Consider the following when creating this item:
+- add more flare to it: how does it look, touch, smell and if able, taste?
+- it's origins, where did this come from?
+- Does it have magical properties and what does it do?
+- is somebody looking for it and what is the significance for them?
+- is it cursed? if so how do you break the curse?
+
+> [!info] Trinket
+> `dice: [[Trinkets Table#^table]]`
+
+
 
 | Trinket                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------- |
